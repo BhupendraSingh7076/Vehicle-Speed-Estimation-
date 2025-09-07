@@ -25,8 +25,8 @@ A **computer vision project** that estimates the speed of vehicles from video fo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/vehicle-speed-estimation.git
-cd vehicle-speed-estimation
+[git clone https://github.com/your-username/vehicle-speed-estimation.git
+cd vehicle-speed-estimation](https://github.com/BhupendraSingh7076/Vehicle-Speed-Estimation-/tree/main)
 ```
 
 ### 2. Install dependencies
